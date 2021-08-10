@@ -1,6 +1,6 @@
 # Autohotkey_Drawboard_Gaoman
 在使用高漫数位版时，没有快捷键很不方便，所以利用autohk实现一些快捷键的映射。
-此处感谢[up主](https://www.bilibili.com/video/BV13K411u74M#reply5111427918)的想法
+此处感谢[up主](https://www.bilibili.com/video/BV13K411u74M#reply5111427918)的想法。
 ## 使用方法
 1. 首先在数位的驱动上设置每个物理按键对应的快捷键
 2. 打开Drawboard
