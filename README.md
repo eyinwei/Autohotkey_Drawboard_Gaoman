@@ -1,0 +1,2 @@
+# Autohotkey_Drawboard_Gaoman
+在使用高漫数位版时，没有快捷键很不方便，所以利用autohk实现一些快捷键的映射。
